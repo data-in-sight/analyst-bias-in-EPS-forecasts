@@ -1,6 +1,6 @@
 #Prediction of Movie Revenue for Film Investors at Pre-production Stages
 
-####Collective work of Amber Wu, Jiseon Park, Malvika Dhingra, Pankaj Bansal, Ritu Sharma
+####Collective work of Jiseon Park, Abhishek Chand, Martin Ma, Shreya Deshmukh, Tommy Li
 
 Unauthorized reproduction and redistribution without citations are prohibited. 
 
